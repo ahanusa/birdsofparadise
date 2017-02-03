@@ -1,0 +1,22 @@
+{
+    "name": "birdsII",
+    "displayName": "Birds II",
+    "description": "Birds II",
+    "version": "0.0.1",
+    "publisher": "a",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Birds II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Birds of Paradise (4).tmTheme"
+            }
+        ]
+    }
+}
